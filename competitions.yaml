@@ -1,0 +1,45 @@
+competitions:
+  - name: Premier League
+    country: England
+    type: league
+    id: 39
+  - name: La Liga
+    country: Spain
+    type: league
+    id: 140
+  - name: Serie A
+    country: Italy
+    type: league
+    id: 135
+  - name: Bundesliga
+    country: Germany
+    type: league
+    id: 78
+  - name: Ligue 1
+    country: France
+    type: league
+    id: 61
+  - name: Brasileirão
+    country: Brazil
+    type: league
+    id: 71
+  - name: UEFA Champions League
+    country: Europe
+    type: international_club
+    id: 2
+  - name: Club World Cup
+    country: Global
+    type: international_club
+    id: 34
+  - name: Veikkausliiga
+    country: Finland
+    type: league
+    id: 185
+  - name: Eliteserien
+    country: Norway
+    type: league
+    id: 271
+  - name: Allsvenskan
+    country: Sweden
+    type: league
+    id: 266
